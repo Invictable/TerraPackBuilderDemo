@@ -24,7 +24,8 @@ Here's an example of a civ map template along multiple stages of generation:
 ![TenShapes-0711-1508-2275](https://github.com/user-attachments/assets/ac31e8b6-bdcf-4be3-8a33-2c23a781739b)
 ![TenShapes-0711-1515-9751](https://github.com/user-attachments/assets/040c029b-0c4b-42c0-9bfa-335dc1627272)
 ![TenShapes-0711-1516-2930](https://github.com/user-attachments/assets/dc9abd35-c750-4012-b000-602ec15e31ef)
-![TenShapes-0711-1508-6660](https://github.com/user-attachments/assets/5fe27881-7101-442e-9d57-9f383fbb7c09)
+![TenShapes-0711-1516-8091](https://github.com/user-attachments/assets/7cb50b95-9ba8-4acb-a393-1888d6aa275c)
+
 
 
 
