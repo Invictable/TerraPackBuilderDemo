@@ -3,7 +3,8 @@ Basic overview of how my terrain generator works and the results it produces. (d
 
 Hoplite utilzies an open source terrain generator, adapted to create ideal UHC worlds. One of the inputs this terrain generator can accept for creating worlds is images, so I created TerraPackBuilder to create images that include key features of UHC style worlds and Minecraft style terrain easily.
 
-Two types of maps can be generated, Solo or Civilization
+Two types of maps can be generated, Solo or Civilization style.
+
 Both maps are created as islands, with ocean surrounding the playable land. Rivers cut through the land, but avoid mountains.
 Solo maps features a biome at the center of the map that can never have caves, and feature small biome regions throughout the map of all types.
 Civilization maps are split into 10 regions and generated so all 10 teams have equally proportioned regions.
