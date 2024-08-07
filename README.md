@@ -1,5 +1,4 @@
 # TerraPackBuilder Demo
-Basic overview of how my terrain generator works and the results it produces. (developed for Hoplite)
 
 Hoplite utilzies an open source terrain generator, adapted to create ideal UHC worlds. One of the inputs this terrain generator can accept for creating worlds is images, so I created TerraPackBuilder to create images that include key features of UHC style worlds and Minecraft style terrain easily.
 
