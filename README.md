@@ -5,11 +5,11 @@ Hoplite utilzies an open source terrain generator, adapted to create ideal UHC w
 Two types of maps can be generated, Solo or Civilization style.
 
 Both maps are created as islands, with ocean surrounding the playable land. Rivers cut through the land, but avoid mountains.
-Solo maps features a biome at the center of the map that can never have caves, and feature small biome regions throughout the map of all types.
+Solo maps include a biome at the center of the map that can never have caves or rivers, and they feature small biome regions of all types throughout the map.
 Civilization maps are split into 10 regions and generated so all 10 teams have equally proportioned regions.
 Biome regions are generated using a randomized upscaling algorithm. Biome borders are also generated this way, allowing randomized biome and region borders that feel natural.
 
-These images are regenerated at the start of every Hoplite season, allowing a new set of image templates to exist. Each colored pixel correlates to a set of biomes everytime the map generates, so even if a player recognizes the map template from river shapes or some other unchanging landmark, the exact biome in specific places will be different. Addtionally, the shape terrain takes is affected by the vanilla seed, so caves, ores, landmarks, etc will also be different even when playing on the same map template. 
+These images (were) regenerated at the start of every Hoplite season. Each colored pixel correlates to a set of biomes everytime the map generates, so even if a player recognizes the map template from river shapes or some other unchanging landmark, the exact sub-biome in specific places will be different. Addtionally, the shape terrain takes is affected by the vanilla seed, so caves, ores, landmarks, etc will also be different even when playing on the same map template. 
 
 Maps are continously generated and deleted once played to make sure players never play on the same 100% identical map twice. Only templates are reused. 
 
